@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Eric Vero, PhD"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Eric Vero"
+description              : &description "Digital Historian of Disability & Fandom // Author"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://eaverowrites.com # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "/assets/img/profile.jpeg"
+  name             : "Eric Vero, PhD"
+  pronouns         : # example: "he/him"  
+  bio              : "Digital Historian of Disability and Fandom // Author"
+  location         : "Ontario"
+  employer         : "University of Waterloo"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "eaverowrites@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -57,14 +57,14 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "bsky.app" # eaverowrites.bsky.social
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : # eaverowrites
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -74,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : # eaverowrites
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username

@@ -8,23 +8,20 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Academic Publications"
+    url: /academic_publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Literary Publications"
+    url: /literary_publications/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
+  - title: "Presentations"
+    url: /presentations/    
+
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://supertheorycraft.wordpress.com/
     
   - title: "CV"
-    url: /cv/
+    url: /assets/pdf/Vero_CV_April_2026.pdf
     
   # - title: "CV"
   #   url: /cv-json/
