@@ -6,7 +6,7 @@ subtitle: <a href='Waterloo Department of History'>https://uwaterloo.ca/history/
 
 profile:
   align: right
-  image: /assets/img/profile-pic-1.jpg
+  image: /assets/img/profile-pic-1.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Woodstock, ON</p>
