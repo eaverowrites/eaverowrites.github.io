@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='Waterloo Department of History'>https://uwaterloo.ca/history/</a>. Research Associate, Department of History, University of Waterloo
+subtitle: Research Associate, Department of History, University of Waterloo
 
 profile:
   align: right
-  image: /assets/img/profile-pic-1.jpeg
+  image: profile-pic-1.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Woodstock, ON</p>
