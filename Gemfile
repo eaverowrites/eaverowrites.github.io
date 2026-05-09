@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+# This is the line that tells the computer how to "look"
+gem "jekyll-theme-al-folio", git: "https://github.com/alshedivat/al-folio"
+
 group :jekyll_plugins do
   gem 'jekyll'
   gem 'jekyll-feed'
