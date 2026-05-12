@@ -14,6 +14,7 @@ plugins:
   - jekyll-twitter-plugin
   - jekyll-toc
   - jekyll-remote-theme
+  - jekyll-scholar
 
 # Biographic Info (Used by al-folio)
 first_name: Eric
