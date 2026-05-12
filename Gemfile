@@ -4,8 +4,9 @@ gem "jekyll", "~> 4.3.2"
 gem "jekyll-remote-theme"
 
 group :jekyll_plugins do
-  gem "jekyll-paginate"         # Added this (the one it asked for)
-  gem "jekyll-paginate-v2"      # Added this (the one al-folio usually uses)
+  gem "jekyll-paginate"
+  gem "jekyll-paginate-v2"
+  gem "jekyll-redirect-from" # The missing "Mole"
   gem "jekyll-feed"
   gem "jekyll-sitemap"
   gem "jekyll-titles-from-headings"
