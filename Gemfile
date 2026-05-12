@@ -1,9 +1,7 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3.2"
-
-# This is the heart of your site
-gem "jekyll-theme-al-folio", git: "https://github.com/alshedivat/al-folio"
+# Notice the added 'branch: "master"' at the end
+gem "jekyll-theme-al-folio", git: "https://github.com/alshedivat/al-folio", branch: "master"
 
 group :jekyll_plugins do
   gem "jekyll-feed"
