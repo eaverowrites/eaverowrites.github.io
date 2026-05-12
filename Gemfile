@@ -1,12 +1,12 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3.2"
-gem "jekyll-remote-theme"
 
 group :jekyll_plugins do
+  gem "jekyll-remote-theme"
   gem "jekyll-paginate"
   gem "jekyll-paginate-v2"
-  gem "jekyll-redirect-from" # The missing "Mole"
+  gem "jekyll-redirect-from"
   gem "jekyll-feed"
   gem "jekyll-sitemap"
   gem "jekyll-titles-from-headings"
@@ -14,6 +14,7 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jekyll-twitter-plugin"
   gem "jemoji"
+  gem "jekyll-toc"
 end
 
 gem "webrick", "~> 1.8"
