@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Research Associate, Department of History, University of Waterloo
+---
 
 profile:
   align: right
