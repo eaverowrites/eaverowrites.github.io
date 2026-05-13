@@ -9,10 +9,13 @@ layout: default
 
   <article>
     {% if page.profile -%}
-    <div class="profile float-{{ page.profile.align | default: 'right' }}">
+    <div class="profile float-md-{{ page.profile.align | default: 'right' }} ml-md-3">
       {% if page.profile.image -%}
         {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
-        <img class="img-fluid z-depth-1 rounded" src="{{ profile_image_path | relative_url }}">
+        <img class="img-fluid z-depth-1 rounded" 
+             style="max-width: 200px; width: 100%; height: auto;" 
+             src="{{ profile_image_path | relative_url }}"
+             alt="Profile picture of Eric Vero">
       {%- endif %}
       {% if page.profile.more_info -%}
         <div class="more-info">{{ page.profile.more_info }}</div>
