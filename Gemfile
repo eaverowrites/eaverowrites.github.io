@@ -12,10 +12,10 @@ group :jekyll_plugins do
   gem "jekyll-titles-from-headings"
   gem "jekyll-default-layout"
   gem "jekyll-gist"
-  gem "jekyll-twitter-plugin"
   gem "jemoji"
   gem "jekyll-toc"
   gem "jekyll-scholar"
+  gem "jemoji"
 end
 
 gem "webrick", "~> 1.8"
