@@ -15,7 +15,6 @@ plugins:
   - jekyll-remote-theme
   - jekyll-scholar
   - jemoji # Required for many theme icons
-  - jekyll-social-links
 
 # Biographic Info
 first_name: Eric
