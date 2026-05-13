@@ -8,9 +8,9 @@ social: false
 profile:
   align: right
   image: profile-pic-1.jpeg
-  image_circular: false
+  image_circular: true
   more_info: >
-    <p>Woodstock, ON</p>
+    <p>eavero@uwaterloo.ca // Woodstock, ON</p>
 
 announcements:
   enabled: true
