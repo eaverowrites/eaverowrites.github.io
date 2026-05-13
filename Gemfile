@@ -16,6 +16,7 @@ group :jekyll_plugins do
   gem "jekyll-toc"
   gem "jekyll-scholar"
   gem "jemoji"
+  gem "jekyll-social-links"
 end
 
 gem "webrick", "~> 1.8"
