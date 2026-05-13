@@ -8,13 +8,13 @@ remote_theme: alshedivat/al-folio
 
 # Plugins
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-toc
   - jekyll-remote-theme
   - jekyll-scholar
-  - jemoji # Required for many theme icons
+  - jekyll-social-links
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-toc
+  - jemoji
 
 # Biographic Info
 first_name: Eric
