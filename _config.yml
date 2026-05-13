@@ -3,7 +3,7 @@ title: "Eric Vero, PhD"
 description: "Digital Historian of Disability & Fandom // Author"
 url: "https://eaverowrites.com"
 baseurl: ""
-repository: eavero/eavero.github.io
+repository: eaverowrites/eaverowrites.github.io
 remote_theme: alshedivat/al-folio
 
 # Plugins
@@ -11,12 +11,12 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-twitter-plugin
   - jekyll-toc
   - jekyll-remote-theme
   - jekyll-scholar
+  - jemoji # Required for many theme icons
 
-# Biographic Info (Used by al-folio)
+# Biographic Info
 first_name: Eric
 last_name: Vero
 middle_name: A.
@@ -24,9 +24,9 @@ address: "Woodstock, ON"
 email: eaverowrites@gmail.com
 
 # Social Links
+social: true # Add this line to tell the theme to enable the social section
 github_username: eavero
-googlescholar_id: PS_CX0AAAAAJ
-orcid_id: "0009-0009-9497-153X" # Replace with your actual ID
+orcid_id: "0009-0009-9497-153X"
 
 # Theme Layout Settings
 navbar_fixed: true
