@@ -10,7 +10,6 @@ remote_theme: alshedivat/al-folio
 plugins:
   - jekyll-remote-theme
   - jekyll-scholar
-  - jekyll-social-links
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-toc
