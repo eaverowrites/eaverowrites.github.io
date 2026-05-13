@@ -23,4 +23,4 @@ latest_posts:
   limit: 3
 ---
 
-Dr. Eric Vero is a SSHRC Doctoral Fellow studying disability and fandom through a digital lens. He publishes non-fiction about the Mad and queer experience under the name E. A. Vero. His dissertation, ([https://uwspace.uwaterloo.ca/items/20200081-69ba-4a2e-9e3b-78ae0e988880/](https://uwspace.uwaterloo.ca/items/20200081-69ba-4a2e-9e3b-78ae0e988880/)), explored how disabled fans fight ableism through sharing and shaping stories.
+Dr. Eric Vero is a SSHRC Doctoral Fellow studying disability and fandom through a digital lens. He publishes non-fiction about the Mad and queer experience under the name E. A. Vero. His dissertation, ([Freaking Fans: An Oral History of Disability in Fan Spaces](https://uwspace.uwaterloo.ca/items/20200081-69ba-4a2e-9e3b-78ae0e988880/)), explored how disabled fans fight ableism through sharing and shaping stories.
