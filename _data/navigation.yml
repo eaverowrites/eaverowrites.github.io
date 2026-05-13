@@ -9,13 +9,13 @@
 
 main:
   - title: "Academic Publications"
-    url: /_academic_publications/
+    url: /academic_publications/
 
   - title: "Literary Publications"
-    url: /_literary_publications/
+    url: /literary_publications/
 
   - title: "Presentations"
-    url: /_presentations/    
+    url: /presentations/    
 
   - title: "Blog Posts"
     url: https://supertheorycraft.wordpress.com/
@@ -27,4 +27,4 @@ main:
   #   url: /cv-json/
 
   - title: "Teaching"
-    url: /_teaching/
+    url: /teaching/
