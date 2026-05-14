@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /academic_publications/
+permalink: /academic/
 title: Academic Publications
 description: Academic articles of oral history, disability studies, and fan studies
 nav: true
 nav_order: 20
 ---
 
-# Publications
+# Academic Publications
 
 **Vero, Eric.** "Towards a Global History of Fandom: A Network Analysis of Science Fiction Fans, 1926-1947." *Journal of Fandom Studies.* Accepted and forthcoming.
 
