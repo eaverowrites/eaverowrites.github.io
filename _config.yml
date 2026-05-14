@@ -30,3 +30,17 @@ orcid_id: "0009-0009-9497-153X"
 # Theme Layout Settings
 navbar_fixed: true
 footer_fixed: false
+
+collections:
+  academic:
+    output: true
+    permalink: /academic/:path/
+  literary:
+    output: true
+    permalink: /literary/:path/
+  presentations:
+    output: true
+    permalink: /presentations/:path/
+  teaching:
+    output: true
+    permalink: /teaching/:path/
