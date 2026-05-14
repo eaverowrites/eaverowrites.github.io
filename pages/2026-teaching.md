@@ -1,12 +1,11 @@
 ---
 layout: page
 permalink: /teaching/
-description: Courses and training
 nav: true
 nav_order: 25
 ---
 # Teaching
-Fundamentals of University Teaching. Centre for Teaching Excellence, University of Waterloo, 2023.
+Fundamentals of University Teaching Certificate. Centre for Teaching Excellence, University of Waterloo, 2023.
 
 **Instructor.** Faculty of Arts, University of Waterloo. Fall 2023. **History 205: A History of Western Sport.**
 
