@@ -9,10 +9,10 @@
 
 main:
   - title: "Academic Publications"
-    url: /academic_publications/
+    url: /academic/
 
   - title: "Literary Publications"
-    url: /literary_publications/
+    url: /literary/
 
   - title: "Presentations"
     url: /presentations/ 
