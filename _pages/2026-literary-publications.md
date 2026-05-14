@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /literary_publications/
+permalink: /literary/
 title: Literary Publications
 description: Essays and Creative Non-fiction
 nav: true
