@@ -1,25 +1,19 @@
-{% include base_path %}
-
-{% if page.author_profile or layout.author_profile or page.sidebar %}
-  <div class="sidebar sticky">
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  {% if page.sidebar %}
-    {% for s in page.sidebar %}
-      {% if s.image %}
-        <img src=
-        {% if s.image contains "://" %}
-          "{{ s.image }}"
-        {% else %}
-          "{{ s.image | prepend: "/images/" | prepend: base_path }}"
-        {% endif %}
-        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
-      {% endif %}
-      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
-      {% if s.text %}{{ s.text | markdownify }}{% endif %}
-    {% endfor %}
-    {% if page.sidebar.nav %}
-      {% include nav_list nav=page.sidebar.nav %}
-    {% endif %}
+<div class="sidebar">
+  <h3>Connect</h3>
+  
+  {% if site.instagram_username %}
+    <p class="social-link">
+      <a href="https://instagram.com/{{ site.instagram_username }}" target="_blank" rel="noopener noreferrer">
+        Instagram: @{{ site.instagram_username }}
+      </a>
+    </p>
   {% endif %}
-  </div>
-{% endif %}
+
+  {% if site.zotero_profile_id %}
+    <p class="academic-link">
+      <a href="https://www.zotero.org/{{ site.zotero_profile_id }}" target="_blank" rel="noopener noreferrer">
+        Zotero Profile
+      </a>
+    </p>
+  {% endif %}
+</div>
