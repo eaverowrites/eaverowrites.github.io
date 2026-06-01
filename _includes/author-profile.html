@@ -170,6 +170,21 @@
       {% endif %}
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
+      {% endif %}
+      {% if site.instagram_username %}
+        <li>
+          <a href="https://instagram.com/{{ site.instagram_username }}" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram
+          </a>
+        </li>
+      {% endif %}
+
+      {% if site.zotero_profile_id %}
+        <li>
+          <a href="https://www.zotero.org/{{ site.zotero_profile_id }}" target="_blank" rel="noopener noreferrer">
+            <i class="fas fa-fw fa-book" aria-hidden="true"></i> Zotero Profile
+          </a>
+        </li>
       {% endif %}      
     </ul>
   </div>
