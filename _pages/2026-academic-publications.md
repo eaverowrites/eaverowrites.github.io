@@ -9,11 +9,7 @@ nav_order: 20
 
 # Academic Publications
 
-**Vero, Eric.** "Towards a Global History of Fandom: A Network Analysis of Science Fiction Fans, 1926-1947." *Journal of Fandom Studies.* Accepted and forthcoming.
-
-![Gephi network of science fiction fans](/assets/img/as-network-graph.jpg)
-
-*Figure 1: Gephi network of science fiction fans
+**Vero, Eric.** "Towards a Global History of Fandom: A Network Analysis of Science Fiction Fans, 1926-1947." *Journal of Fandom Studies.* 14 (2), 187-213. <https://doi.org/10.1386/jfs_00134_1>. 
 
 **Vero, Eric.** "An Oral History of the Electrical Eggs: Science Fiction, Disability Activism, and Fan Conventions." *The Canadian Journal of Disability Studies.* 14 (2), 1-32. <https://cjds.uwaterloo.ca/index.php/cjds/article/view/1262>.
 
