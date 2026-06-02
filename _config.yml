@@ -24,10 +24,10 @@ email: eaverowrites@gmail.com
 
 # Social Links
 social: true # Add this line to tell the theme to enable the social section
-github_username: eavero
+github_username: "eaverowrites"
 orcid_id: "0009-0009-9497-153X"
-instagram_username: eaverowrites
-zotero_profile_id: eavero7
+instagram_id: "eaverowrites"
+zotero_username: "eavero7"
 
 # Theme Layout Settings
 navbar_fixed: true
