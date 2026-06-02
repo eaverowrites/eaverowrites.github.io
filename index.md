@@ -3,12 +3,13 @@ layout: about
 title: about
 permalink: /
 subtitle: Research Associate, Department of History, University of Waterloo
-social: false
+social: true
 
 profile:
   align: right
   image: profile-pic-1.jpeg
   image_circular: true
+  show_social_links: true
   more_info: >
     <p>eavero@uwaterloo.ca // Woodstock, ON</p>
 
