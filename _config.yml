@@ -4,7 +4,7 @@ description: "Digital Historian of Disability & Fandom // Author"
 url: "https://eaverowrites.com"
 baseurl: ""
 repository: eaverowrites/eaverowrites.github.io
-remote_theme: alshedivat/al-folio
+remote_theme: "alshedivat/al-folio@v0.12.0"
 
 # Plugins
 plugins:
