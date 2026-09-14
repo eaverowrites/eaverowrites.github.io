@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Associate, University of Waterloo
+subtitle: Research Consultant | Web Archiving | Disability & Inclusion | Internet Archive Guide
 social: true
 
 profile:
